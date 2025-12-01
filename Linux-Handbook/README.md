@@ -1,11 +1,5 @@
-# Linux Server Setup – DevOps Automation Bundle
 
-This repository contains a complete Linux server setup structure for DevOps engineers.  
-It includes scripts & configuration files for production-grade Linux administration.
-
----
-
-#  Folder Structure & Hyperlinks
+##  Folder Structure & Hyperlinks
 
 ## **Level 1 – Basic (Foundational Linux Admin)**
 
